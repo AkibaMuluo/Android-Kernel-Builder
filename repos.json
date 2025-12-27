@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "AkibaMuluo",
+      "repo": "https://github.com/AkibaMuluo/android_kernel_xiaomi_sm8250",
+      "branch": "lineage-23.0",
+      "device": "umi"
     },
     "withKernelSU": true,
     "toolchains": [
