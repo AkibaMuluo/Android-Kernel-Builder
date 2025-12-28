@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "AkibaMuluo",
-      "repo": "https://github.com/AkibaMuluo/android_kernel_xiaomi_sm8250",
-      "branch": "lineage-23.0",
-      "device": "umi"
+      "name": "mainline-kernel",
+      "repo": "https://gitlab.com/msm8998-mainline/linux",
+      "branch": "mainline/6.1",
+      "device": "msm8998"
     },
     "withKernelSU": true,
     "toolchains": [
